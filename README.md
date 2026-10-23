@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/muskan-gupta01/leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/muskan-gupta01/leetcode/tree/master/0069-sqrtx) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/muskan-gupta01/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2235-add-two-integers](https://github.com/muskan-gupta01/leetcode/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
